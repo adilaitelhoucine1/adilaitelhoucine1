@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adil Ait ELhoucine</h1>
 <h3 align="center"><pre>const adilAitelhoucine = {
     fullName: "Adil Aitelhoucine",
-    profession: "Software Engineer",
+    profession: "Full Stack Software Web Developer",
     experience: "Intermediate",
     specialties: ["Front-End", "Back-End"],
     sayHello: function() {
