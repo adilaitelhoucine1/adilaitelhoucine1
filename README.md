@@ -5,7 +5,9 @@
     experience: "Intermediate",
     specialties: ["Front-End", "Back-End"],
     sayHello: function() {
-        console.log("Hello, World! 👋 I'm Adil, an Intermediate Software Engineer passionate about clean code and creative solutions! 🚀");
+        console.log("Hello, World! 
+        👋 I'm Adil, an Intermediate Software Engineer passionate about clean code 
+          and creative solutions! 🚀");
     }
 };
 
