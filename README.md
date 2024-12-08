@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Adil Ait ELhoucine</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco</h3>
+<h3 align="center"><pre>const adilAitelhoucine = {
+    fullName: "Adil Aitelhoucine",
+    profession: "Software Engineer",
+    experience: "Intermediate",
+    specialties: ["Front-End", "Back-End"],
+    sayHello: function() {
+        console.log("Hello, World! 👋 I'm Adil, an Intermediate Software Engineer passionate about clean code and creative solutions! 🚀");
+    }
+};
+
+adilAitelhoucine.sayHello();</pre>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilaitelhoucine1&label=Profile%20views&color=0e75b6&style=flat" alt="adilaitelhoucine1" /> </p>
 
